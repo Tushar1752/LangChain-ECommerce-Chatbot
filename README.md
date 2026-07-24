@@ -35,9 +35,8 @@ An AI-powered e-commerce chatbot built using Python, LangChain, Streamlit, and G
 ├── 02_vector_store.py
 ├── 03_rag_chain.py
 ├── 04_chat_memory.py
-├── app.py
+├── 05_app.py
 ├── requirements.txt
-├── .gitignore
 └── README.md
 
 ⸻
@@ -79,7 +78,7 @@ GROQ_API_KEY=your_api_key_here
 
 ▶️ Run the Chatbot
 
-streamlit run app.py
+streamlit run 05_app.py
 
 The chatbot will open in your browser.
 
