@@ -45,7 +45,7 @@ An AI-powered e-commerce chatbot built using Python, LangChain, Streamlit, and G
 
 Clone the repository:
 
-git clone https://github.com/your-username/LangChain-ECommerce-Chatbot.git
+git clone https://github.com/Tushar1752/LangChain-ECommerce-Chatbot.git
 cd LangChain-ECommerce-Chatbot
 
 Create a virtual environment (recommended):
